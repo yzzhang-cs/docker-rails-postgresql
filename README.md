@@ -29,7 +29,7 @@ The template docker-compose repo for Rails and Postgresql. Following the [quicks
 ### Running the App for Development
 1. After linking the database, do:  
     `docker-compose up`
-2. Open your browser and your app is at [http://localhost:3000].
+2. Open your browser and your app is at [http://localhost:3000](http://localhost:3000).
 
 ### Production Environment
 TODO
