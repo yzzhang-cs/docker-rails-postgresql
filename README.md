@@ -13,7 +13,7 @@ The template docker-compose repo for Rails and Postgresql. Following the [quicks
     `docker-compose build`
 4. Link the database(steps below)
     
-### Puting a Existing Project in
+### Puting an Existing Project in
 1. Copy your project(where your Gemfile and Gemfile.lock are) into ./app
 2. Build the images  
     `docker-compose build`
